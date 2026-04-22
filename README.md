@@ -281,23 +281,6 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 
 
-## 8️⃣ Contributors
-
-
-
-| Name               | Role                                      |
-
-|--------------------|-------------------------------------------|
-
-| **Munawwar Qamar** | Case Management, Dashboard, Analytics     |
-
-| **Ayah**            | Victim & Witness Module                   |
-
-| **Shahd**          | Incident Reporting & Validation Modules   |
-
-
-
----
 
 
 
